@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpalfa&label=Profile%20views&color=0e75b6&style=flat" alt="jpalfa" /> </p>
 
-- 🔭 I’m currently working on [Kasznar Leonardos](https://www.kasznarleonardos.com/)
+- 🔭 I’m currently working on [Angular](https://www.kasznarleonardos.com/)
 
-- 🌱 I’m currently learning **more about C# and FrontEnd with Angular**
+- 🌱 I’m currently learning **about CI/CD topics**
 
 - 📝 I regularly write articles on [joaopedrolopes.com.br/](https://www.joaopedrolopes.com.br/)
 
