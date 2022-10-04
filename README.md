@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpalfa&label=Profile%20views&color=0e75b6&style=flat" alt="jpalfa" /> </p>
 
-- 🔭 I’m currently working on [Angular](https://www.kasznarleonardos.com/)
+- 🔭 I’m currently working on [Rabbot](https://rabbot.co/)
 
 - 🌱 I’m currently learning **about CI/CD topics**
 
