@@ -15,8 +15,6 @@
 
 - 📄 Know about my experiences, download my [resume](https://drive.google.com/file/d/1fAWwApXqD6ma6nOni1OBzhzJgFmXlpD5/view?usp=sharing)
 
-- ⚡ Fun fact **On your left**
-
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
