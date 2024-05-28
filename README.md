@@ -3,17 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpalfa&label=Profile%20views&color=0e75b6&style=flat" alt="jpalfa" /> </p>
 
-- 🔭 I’m currently working on [Rabbot](https://rabbot.co/)
+- 🔭 I’m currently working on [ThinkData](https://www.thinkdata.com.br/)
 
-- 🌱 I’m currently learning **about CI/CD topics**
+- 🌱 I’m currently learning **more about C# and .NET topics**
 
-- 📝 I regularly write articles on [joaopedrolopes.com.br/](https://www.joaopedrolopes.com.br/)
-
-- 💬 Ask me about **C#, .NET, SQL Server, JavaScript, HTML, CSS**
+- 💬 Ask me about **C#, .NET, SQL Server, Angular, TypeScript, JavaScript, HTML, CSS**
 
 - 📫 How to reach me **joaopedrolsilva@outlook.com**
-
-- 📄 Know about my experiences, download my [resume](https://drive.google.com/file/d/1fAWwApXqD6ma6nOni1OBzhzJgFmXlpD5/view?usp=sharing)
 
 <br><br>
 
