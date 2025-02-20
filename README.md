@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C#, .NET, SQL Server, Angular, TypeScript, JavaScript, HTML, CSS**
 
-- 📫 How to reach me **joaopedrolsilva@outlook.com**
+- 📫 How to reach me **joaopedrolopes.desenvolvedor@gmail.com**
 
 <br><br>
 
