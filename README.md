@@ -1,53 +1,111 @@
 <h1 align="center">Hi 👋, I'm João Pedro Lopes</h1>
-<h3 align="center">A passionate Software Developer from Brazil</h3>
+<h3 align="center">Back-End Software Engineer | .NET Specialist | Scalable System Builder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jpalfa&label=Profile%20views&color=0e75b6&style=flat" alt="jpalfa" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jpalfa&label=Profile%20views&color=0e75b6&style=flat" alt="jpalfa" />
+</p>
 
-- 🔭 I’m currently working on [ThinkData](https://www.thinkdata.com.br/)
+---
 
-- 🌱 I’m currently learning **more about C# and .NET topics**
+## 🧑‍💻 About Me
 
-- 💬 Ask me about **C#, .NET, SQL Server, Angular, TypeScript, JavaScript, HTML, CSS**
+I’m a passionate and results-driven software engineer with a strong background in back-end development using **C# and .NET**. I’ve led and contributed to high-impact projects across healthcare, aviation, insurance, and AI industries. I specialize in building **scalable APIs**, improving performance, and refactoring legacy code with a focus on **clean architecture** and **domain-driven design**.
 
-- 📫 How to reach me **joaopedrolopes.desenvolvedor@gmail.com**
+---
 
-<br><br>
+## 🚀 Current Role
 
-## 🛠 &nbsp;Tech Stack
+- 👨‍💻 Working at [ThinkData](https://www.thinkdata.com.br/) as a Back-End Engineer  
+- 🧠 Learning more about .NET 8, messaging systems (RabbitMQ, Kafka), and distributed architectures  
+- 🛠 Focused on building clean and efficient APIs, improving system performance, and optimizing SQL queries
 
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> </p>
+---
 
-<br><br>
+## 🏆 Notable Achievements
 
-## ⚙️ &nbsp;GitHub Analytics
+- ⚡ Boosted revenue by **83% in a single month**, plus **10% of the revenue** recurring/month
+- ⚙️ Improved data processing time from **72 hours to just 2 hours** by leveraging multithreading and .NET optimizations
+- ✅ Built a microservice that **eliminated 100% of invoice delivery errors** in hospital systems
+- 🔁 Reduced over **+1,000 lines of legacy code**, enhancing system maintainability and scalability
+
+---
+
+## 🛠 Tech Stack
+
+**Languages & Frameworks**  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Databases**  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**Cloud & DevOps**  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-blue?style=flat)
+
+**Tools & Practices**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean--Architecture-gray?style=flat)
+![DDD](https://img.shields.io/badge/DDD-blueviolet?style=flat)
+![xUnit](https://img.shields.io/badge/xUnit-AD2B2B?style=flat)
+![Moq](https://img.shields.io/badge/Moq-5A5A5A?style=flat)
+
+---
+
+## 📂 Featured Projects
+
+- [**Invoice Verification Microservice** (Bionexo)](https://bionexo.com/)  
+  Eliminated all invoice delivery errors through a robust validation engine and seamless API integration with hospital systems.
+
+- [**Performance Optimization Pipeline** (ThinkData)](https://www.thinkdata.com.br/)  
+  Refactored long-running data processes, cutting execution from 72 hours to 2 hours using multi-threading and efficient data handling.
+
+- [**Health Insurance Platform Modernization** (Reply)](https://www.reply.com/en/)  
+  Took over and modernized a legacy system, implementing secure login and doctor appointment scheduling.
+
+---
+
+## 💬 Core Values
+
+- ✅ Clarity and maintainability over cleverness  
+- 🤝 Respectful and collaborative teamwork  
+- 🧱 Strong foundation in **SOLID principles**, **TDD**, and **software architecture**  
+- 📈 Business impact as a top priority in development
+
+---
+
+## 📊 GitHub Stats
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpalfa&show_icons=true&locale=en&layout=compact" alt="JPAlfa's stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jpalfa&show_icons=true&theme=default" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpalfa&layout=compact&theme=default" />
 </p>
+
+---
+
+## 📫 Contact
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=jpalfa&show_icons=true&locale=en" alt="JPAlfa's most used languages"/>
-</p>
-<br><br>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-da-cruz-silva-lopes-3a549711a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="https://wa.me/5511983793657" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  &nbsp;
+  <a href="mailto:joaopedrolopes.desenvolvedor@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p
+---
 
-## 👨🏽‍🦲 &nbsp;Social Links
+> “Code is a reflection of thought. Write it with clarity, purpose, and humility.”
 
-<p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-da-cruz-silva-lopes-3a549711a/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-João Pedro Lopes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-</p>
-
-<!--
-**JPAlfa/JPAlfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-
--->
